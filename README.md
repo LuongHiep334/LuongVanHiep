@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Tôi là sinh viên chuyên ngành **Phát triển phần mềm** tại **FPT Polytechnic** (2024 - 2026). Với tư duy logic nhạy bén và tinh thần cầu tiến, tôi luôn sẵn sàng tiếp cận các công nghệ mới và áp dụng kiến thức vào thực tế để tạo ra các sản phẩm phần mềm chất lượng.
+Tôi là sinh viên chuyên ngành **Phát triển phần mềm** tại **Trường cao đẳng FPT Polytechnic Thái Nguyên** (2024 - 2026). Với tư duy logic nhạy bén và tinh thần cầu tiến, tôi luôn sẵn sàng tiếp cận các công nghệ mới và áp dụng kiến thức vào thực tế để tạo ra các sản phẩm phần mềm chất lượng.
 
 - 🔭 **I’m currently working on:** Các dự án quản lý hệ thống doanh nghiệp vừa và nhỏ bằng Java.
 - 🌱 **I’m currently learning:** Vert.x, Microservices, và kiến trúc phần mềm nâng cao.
