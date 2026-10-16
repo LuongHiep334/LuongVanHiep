@@ -40,7 +40,7 @@ Website hỗ trợ **mua hàng trực tuyến**, **bán hàng tại quầy (POS)
 - **Công nghệ:** Java, Spring Boot, Spring Data JPA, SQL Server, Thymeleaf, HTML/CSS, JavaScript, Bootstrap, Git/GitHub
 - **Triển khai:** chạy trên VPS Ubuntu, SQL Server chạy bằng Docker, ứng dụng chạy dạng systemd service
 - 🔗 **Source code:** [github.com/LuongHiep334/SMASH-VN_Shop-ban-dung-cu-cau-long](https://github.com/LuongHiep334/SMASH-VN_Shop-ban-dung-cu-cau-long)
-- 🌐 **Demo:** [http://103.249.117.202:45357](http://103.249.117.202:45357)
+- 🌐 **Demo:** [http://103.249.117.202:45357](http://103.249.117.233:46006/)
 - **Đóng góp của tôi:**
   - Xây dựng chức năng đăng ký, đăng nhập và phân quyền cho khách hàng
   - Xây dựng trang quản lý tài khoản khách hàng: sổ địa chỉ, theo dõi và quản lý đơn hàng
